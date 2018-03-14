@@ -115,6 +115,12 @@ const webpackConfig = merge(baseWebpackConfig, {
         ignore: [".*"]
       }
     ]),
+    new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, "../_redirects"),
+        to: "./"
+      }
+    ]),
     new PrerenderSpaPlugin(
       // Absolute path to compiled SPA
       path.join(__dirname, "../dist"),

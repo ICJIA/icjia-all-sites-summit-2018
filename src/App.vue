@@ -20,25 +20,25 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#home'">Home</a>
+            <a class="nav-link js-scroll-trigger active" id="home-nav" v-scroll-to="'#home'">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#about-summit'">About the Summit</a>
+            <a class="nav-link js-scroll-trigger" id="about-summit-nav" v-scroll-to="'#about-summit'">About the Summit</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#about-ari'">About Adult Redeploy Illinois</a>
+            <a class="nav-link js-scroll-trigger" id="about-ari-nav" v-scroll-to="'#about-ari'">About Adult Redeploy Illinois</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#about-cjcc'">About Criminal Justice Coordinating Councils</a>
+            <a class="nav-link js-scroll-trigger" id="about-cjcc-nav" v-scroll-to="'#about-cjcc'">About Criminal Justice Coordinating Councils</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#agenda'">Agenda</a>
+            <a class="nav-link js-scroll-trigger" id="agenda-nav" v-scroll-to="'#agenda'">Agenda</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#registration'">Registration, Lodging & Meals</a>
+            <a class="nav-link js-scroll-trigger" id="registration-nav" v-scroll-to="'#registration'">Registration, Lodging & Meals</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" v-scroll-to="'#resources'">Resources</a>
+            <a class="nav-link js-scroll-trigger" id="resources-nav" v-scroll-to="'#resources'">Resources</a>
           </li>
           <li class="navFooter d-none d-lg-block">
             <img src="./assets/icjia.png" alt="ICJIA Logo" class="navFooterLogo" />
@@ -59,6 +59,12 @@
 <script>
   export default {
     name: 'App',
+    metaInfo: {
+      // if no subcomponents specify a metaInfo.title, this title will be used
+      title: 'Adult Redeploy Illinois 2018 All Sites Summit',
+      // all titles will be injected into this template
+      titleTemplate: 'ICJIA | %s'
+    },
     methods: {
       scrollToTarget: function (e) {
         console.log(e.target.getAttribute('href'))
@@ -67,15 +73,30 @@
     },
     mounted() {
 
+      let section = document.querySelectorAll(".content-section");
+      let sections = {};
+      let s = 0;
+      let offset = 0;
+
+      Array.prototype.forEach.call(section, function (e) {
+        sections[e.id] = e.offsetTop;
+      });
+
+      window.onscroll = function () {
+        var scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
+        for (s in sections) {
+          if (sections[s] <= scrollPosition) {
+            $('.active').removeClass('active');
+
+            document.getElementById(`${s}-nav`).className += " active";
+          }
+        }
+      }
+
 
       // Closes responsive menu when a scroll trigger link is clicked
       $('.js-scroll-trigger').click(function () {
         $('.navbar-collapse').collapse('hide');
-      });
-
-      // Activate scrollspy to add active class to navbar items on scroll
-      $('body').scrollspy({
-        target: '#sideNav'
       });
 
     }
@@ -131,6 +152,12 @@
     font-size: 1.35rem
   }
 
+  .active {
+    color: rgb(158, 241, 230) !important;
+    text-decoration: none;
+    font-weight: 900;
+  }
+
 
 
   #sideNav .navbar-nav .nav-item .nav-link {
@@ -149,7 +176,10 @@
       width: 17rem;
       height: 100vh;
       overflow: auto;
+
     }
+
+
     #sideNav .navbar-brand {
       display: flex;
       margin: auto auto 0;
@@ -201,7 +231,7 @@
 
     .navHeader {
       border-bottom: 1px solid #aaa;
-      padding-bottom: 30px;
+      padding-bottom: 20px;
     }
     .navHeader h1 {
       margin-top: 20px !important;
@@ -218,7 +248,7 @@
     }
 
     .navFooter {
-      padding-top: 30px;
+      padding-top: 5px;
     }
 
     .navFooterLogo {
@@ -259,33 +289,27 @@
   a:active,
   a:focus,
   a:hover {
-    color: #ccc;
+    color: #fff;
     cursor: pointer;
   }
 
 
-  #home {}
 
-  #about-summit {
+
+  #about-summit,
+  #about-cjcc,
+  #registration {
     background: #35999B;
     color: white;
   }
 
-  #about-summit h2 {
+  #about-summit h2,
+  #about-cjcc h2,
+  #registration h2 {
     color: #fff;
   }
 
-  #about-ari {}
 
-  #about-cjcc {
-    background: #35999B;
-    color: white;
-
-  }
-
-  #about-cjcc h2 {
-    color: #fff;
-  }
 
   .primary {
     color: #068587 !important;

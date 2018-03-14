@@ -138,6 +138,46 @@
         </div>
       </section>
 
+      <section class="content-section p-3 p-lg-5 d-flex flex-column" id="registration">
+        <div class="my-auto">
+          <h2 class="mb-5">Registration, Lodging & Meals</h2>
+          <div class="d-flex flex-column flex-md-row mb-5">
+            <div class="mr-auto">
+              <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
+                for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
+              <p>For more information, contact emma.rubin@illinois.gov, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
+              <p>Agenda coming soon</p>
+
+
+
+
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+
+      <section class="content-section p-3 p-lg-5 d-flex flex-column" id="resources">
+        <div class="my-auto">
+          <h2 class="mb-5 primary">Resources</h2>
+          <div class="d-flex flex-column flex-md-row mb-5">
+            <div class="mr-auto">
+              <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
+                for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
+              <p>For more information, contact emma.rubin@illinois.gov, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
+              <p>Agenda coming soon</p>
+
+
+
+
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+
     </div>
   </div>
 </template>

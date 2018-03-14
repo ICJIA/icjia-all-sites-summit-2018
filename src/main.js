@@ -11,6 +11,8 @@ window.jQuery = $;
 window.$ = $;
 let VueScrollTo = require("vue-scrollto");
 Vue.use(VueScrollTo);
+import Meta from "vue-meta";
+Vue.use(Meta);
 
 Vue.config.productionTip = false;
 
