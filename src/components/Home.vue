@@ -69,7 +69,7 @@
 
       <section class="content-section p-3 p-lg-5 d-flex flex-column" id="about-ari">
         <div class="my-auto">
-          <h2 class="mb-5 primary">About Redeploy Illinois</h2>
+          <h2 class="mb-5 primary">About Adult Redeploy Illinois</h2>
           <div class="container-fluid">
             <div class="row">
               <div class="col-sm">
