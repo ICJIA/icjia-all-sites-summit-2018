@@ -18,10 +18,10 @@ Vue.use(Meta);
 import VueAnalytics from "vue-analytics";
 Vue.use(VueAnalytics, {
   id: "UA-10798495-26",
-  router,
   debug: {
-    sendHitTask: false
-  }
+    sendHitTask: process.env.NODE_ENV === "production"
+  },
+  router
 });
 
 Vue.config.productionTip = false;

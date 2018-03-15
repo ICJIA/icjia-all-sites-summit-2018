@@ -74,7 +74,7 @@
 
     },
     mounted() {
-
+      console.log(process.env.NODE_ENV)
       let section = document.querySelectorAll(".content-section");
       let sections = {};
       let s = 0;
