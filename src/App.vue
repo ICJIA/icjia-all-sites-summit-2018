@@ -212,7 +212,7 @@
     }
 
     .image-container {
-      margin-top: -120px;
+      margin-top: -50px;
 
     }
   }

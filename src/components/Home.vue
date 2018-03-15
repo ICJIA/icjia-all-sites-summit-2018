@@ -85,7 +85,7 @@
               </div>
               <div class="col-sm">
                 <div class="image-container">
-                  <img src="../assets/map.png" width="450" class="img-fluid" />
+                  <img src="../assets/map.png" width="400" class="img-fluid" />
                 </div>
               </div>
 
