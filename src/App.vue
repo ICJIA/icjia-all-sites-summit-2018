@@ -38,7 +38,7 @@
             <a class="nav-link js-scroll-trigger" id="registration-nav" v-scroll-to="'#registration'">Registration, Lodging & Meals</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" id="resources-nav" v-scroll-to="'#resources'">Resources</a>
+            <a class="nav-link js-scroll-trigger" id="resources-nav" v-scroll-to="'#resources'">Summit Resources</a>
           </li>
           <li class="navFooter d-none d-lg-block">
             <img src="./assets/icjia.png" alt="ICJIA Logo" class="navFooterLogo" />
@@ -63,7 +63,7 @@
       // if no subcomponents specify a metaInfo.title, this title will be used
       title: 'Adult Redeploy Illinois 2018 All Sites Summit',
       // all titles will be injected into this template
-      titleTemplate: 'ICJIA | %s'
+      titleTemplate: '%s'
     },
     methods: {
       scrollToTarget: function (e) {
@@ -272,7 +272,7 @@
 
     section.content-section.first {
 
-      padding-top: 10rem!important;
+      padding-top: 5rem!important;
 
     }
   }
@@ -283,14 +283,20 @@
 
 
   a {
-    color: #068587
+    color: #444;
+
+  }
+
+  a.heavy {
+    font-weight: 900;
   }
 
   a:active,
   a:focus,
   a:hover {
-    color: #fff;
+    color: #aaa;
     cursor: pointer;
+
   }
 
 
@@ -309,9 +315,61 @@
     color: #fff;
   }
 
+  ul.sectionList li {
+    margin-bottom: 20px;
+  }
 
 
   .primary {
     color: #068587 !important;
+  }
+
+  .address {
+    margin-top: 50px
+  }
+
+  .btn-registration {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333 !important;
+  }
+
+  .readmore {
+    margin-top: 80px;
+  }
+
+  .readmore .teaser {
+    margin-bottom: 15px;
+    font-weight: 900;
+    color: #068587;
+  }
+
+  .readmore .arrow {
+
+    color: #068587;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 1s infinite alternate;
+  }
+
+  .readmore:hover {
+    cursor: pointer;
+  }
+
+  @keyframes bounce {
+    from {
+      transform: translateY(0px);
+    }
+    to {
+      transform: translateY(-15px);
+    }
+  }
+
+  @-webkit-keyframes bounce {
+    from {
+      transform: translateY(0px);
+    }
+    to {
+      transform: translateY(-15px);
+    }
   }
 </style>

@@ -10,9 +10,19 @@
             </h1>
             <h2 class="muted">All-Sites Summit</h2>
             <h3>May 9-10, 2018</h3>
-            <p>DoubleTree by Hilton, Bloomington</p>
-            <p> Illinois 10 Brickyard Drive</p>
-            <p>Bloomington, IL 61701</p>
+            <div class="address">
+              <p>
+                <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy muted">DoubleTree by Hilton, Bloomington, Illinois</a>
+              </p>
+              <p> 10 Brickyard Drive</p>
+              <p>Bloomington, IL 61701</p>
+              <button type="button" class="btn btn-outline-secondary mt-4 btn-registration" disabled>Registration open from 4/1/2018 through 4/27/2018</button>
+            </div>
+
+            <div class="readmore" @click="scrollToAbout">
+              <!-- <div class="teaser">READ MORE</div> -->
+              <i class="fas fa-angle-double-down fa-4x arrow"></i>
+            </div>
 
           </div>
         </div>
@@ -63,7 +73,8 @@
           <div class="container-fluid">
             <div class="row">
               <div class="col-sm">
-                <p>Adult Redeploy Illinois is a state initiative providing funding and technical assistance to local jurisdictions
+                <p>
+                  <a href="http://www.icjia.state.il.us/redeploy" class="heavy">Adult Redeploy Illinois</a> is a state initiative providing funding and technical assistance to local jurisdictions
                   to support the diversion of non-violent offenders from prison to more effective and less expensive community-based
                   supervision and services.</p>
                 <p>ARI sites use grant funds to design and implement local programs that address offenders' risks and needs
@@ -125,7 +136,8 @@
             <div class="mr-auto">
               <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
                 for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
-              <p>For more information, contact emma.rubin@illinois.gov, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
+              <p>For more information, contact
+                <a href="mailto: emma.rubin@illinois.gov" class="heavy">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
               <p>Agenda coming soon</p>
 
 
@@ -143,10 +155,27 @@
           <h2 class="mb-5">Registration, Lodging & Meals</h2>
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
-                for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
-              <p>For more information, contact emma.rubin@illinois.gov, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
-              <p>Agenda coming soon</p>
+              <ul class="sectionList">
+
+
+                <li>There are no registration costs for the event; however, all participants must register for the Summit. For
+                  those participants representing ARI programs, it is suggested that you confirm participation with your
+                  ARI program contact before registering.</li>
+                <li>Mileage, lodging and per diem should be covered in local program budgets.
+                </li>
+                <li>Participants must make lodging reservations on their own or through their ARI-funded programs. The
+                  <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy">DoubleTree</a>
+                  has set aside a block of rooms for the nights of Tuesday, May 8 and Wednesday, May 9. Reservations should be made by April
+                  17, 2018 to ensure access to the state rate. Ask for the "Adult Redeploy Illinois" room block when making
+                  reservations at 1-309-664-6446. An additional block of rooms at the state rate has been reserved at the
+                  Eastland Suites Hotel, and can be reserved by calling 309-662-0000. There is a free shuttle between the
+                  Eastland and the DoubleTree.</li>
+                <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Pre-Summit
+                  programming on May 8 is expected to begin at 12 pm.</li>
+                <li>Continental breakfast will be provided on May 8 and May 9, and lunch will be provided on May 9.</li>
+                <li>The Summit will conclude at 12pm on Thursday, May 10.</li>
+              </ul>
+
 
 
 
@@ -160,13 +189,11 @@
 
       <section class="content-section p-3 p-lg-5 d-flex flex-column" id="resources">
         <div class="my-auto">
-          <h2 class="mb-5 primary">Resources</h2>
+          <h2 class="mb-5 primary">Summit Resources</h2>
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
-                for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
-              <p>For more information, contact emma.rubin@illinois.gov, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
-              <p>Agenda coming soon</p>
+              <h3>
+                Power Points and Resources coming soon</h3>
 
 
 
@@ -187,6 +214,12 @@
     name: 'HelloWorld',
     mounted() {
       console.log('mounted')
+    },
+    methods: {
+      scrollToAbout: function () {
+        return this.$scrollTo('#about-summit')
+
+      }
     },
     data() {
       return {

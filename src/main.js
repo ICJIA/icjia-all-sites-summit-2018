@@ -9,6 +9,7 @@ import $ from "jquery";
 
 window.jQuery = $;
 window.$ = $;
+
 let VueScrollTo = require("vue-scrollto");
 Vue.use(VueScrollTo);
 import Meta from "vue-meta";
