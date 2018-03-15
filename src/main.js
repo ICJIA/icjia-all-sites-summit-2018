@@ -15,6 +15,15 @@ Vue.use(VueScrollTo);
 import Meta from "vue-meta";
 Vue.use(Meta);
 
+import VueAnalytics from "vue-analytics";
+Vue.use(VueAnalytics, {
+  id: "UA-10798495-26",
+  router,
+  debug: {
+    sendHitTask: false
+  }
+});
+
 Vue.config.productionTip = false;
 
 /* eslint-disable no-new */

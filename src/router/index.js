@@ -9,7 +9,7 @@ export default new Router({
   routes: [
     {
       path: "/*",
-      name: "Home",
+      name: "All_Sites_2018_Home",
       component: Home
     }
   ]

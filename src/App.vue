@@ -59,14 +59,10 @@
 </template>
 
 <script>
+  import metaInfo from '@/meta'
   export default {
     name: 'App',
-    metaInfo: {
-      // if no subcomponents specify a metaInfo.title, this title will be used
-      title: 'Adult Redeploy Illinois 2018 All Sites Summit',
-      // all titles will be injected into this template
-      titleTemplate: '%s'
-    },
+    metaInfo,
     methods: {
       scrollToTarget: function (e) {
         console.log(e.target.getAttribute('href'))
