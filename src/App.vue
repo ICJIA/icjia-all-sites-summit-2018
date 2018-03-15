@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-      <div class="navHeader d-none d-lg-block">
+      <div class="navHeader d-none d-lg-block" @click="scrollTo('#page-top')">
 
         <h1>Adult
           <br>Redeploy
@@ -41,7 +41,9 @@
             <a class="nav-link js-scroll-trigger" id="resources-nav" v-scroll-to="'#resources'">Summit Resources</a>
           </li>
           <li class="navFooter d-none d-lg-block">
-            <img src="./assets/icjia.png" alt="ICJIA Logo" class="navFooterLogo" />
+            <a href="http://www.icjia.state.il.us">
+              <img src="./assets/icjia.png" alt="ICJIA Logo" class="navFooterLogo" />
+            </a>
             <div class="navFooterCopy">&copy;2018 Illinois Criminal Justice Information Authority</div>
           </li>
         </ul>
@@ -68,6 +70,10 @@
     methods: {
       scrollToTarget: function (e) {
         console.log(e.target.getAttribute('href'))
+      },
+      scrollTo: function (el) {
+        return this.$scrollTo(el)
+
       }
 
     },
@@ -232,6 +238,10 @@
     .navHeader {
       border-bottom: 1px solid #aaa;
       padding-bottom: 20px;
+    }
+
+    .navHeader:hover {
+      cursor: pointer;
     }
     .navHeader h1 {
       margin-top: 20px !important;

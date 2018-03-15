@@ -19,7 +19,7 @@
               <button type="button" class="btn btn-outline-secondary mt-4 btn-registration" disabled>Registration open from 4/1/2018 through 4/27/2018</button>
             </div>
 
-            <div class="readmore" @click="scrollToAbout">
+            <div class="readmore" @click="scrollTo('#about-summit')">
               <!-- <div class="teaser">READ MORE</div> -->
               <i class="fas fa-angle-double-down fa-4x arrow"></i>
             </div>
@@ -216,8 +216,8 @@
       console.log('mounted')
     },
     methods: {
-      scrollToAbout: function () {
-        return this.$scrollTo('#about-summit')
+      scrollTo: function (el) {
+        return this.$scrollTo(el)
 
       }
     },
