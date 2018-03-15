@@ -12,7 +12,7 @@
             <h3>May 9-10, 2018</h3>
             <div class="address">
               <p>
-                <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy muted">DoubleTree by Hilton, Bloomington, Illinois</a>
+                <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree by Hilton, Bloomington, Illinois</a>
               </p>
               <p> 10 Brickyard Drive</p>
               <p>Bloomington, IL 61701</p>
@@ -74,7 +74,7 @@
             <div class="row">
               <div class="col-sm">
                 <p>
-                  <a href="http://www.icjia.state.il.us/redeploy" class="heavy">Adult Redeploy Illinois</a> is a state initiative providing funding and technical assistance to local jurisdictions
+                  <a href="http://www.icjia.state.il.us/redeploy" class="heavy primary">Adult Redeploy Illinois</a> is a state initiative providing funding and technical assistance to local jurisdictions
                   to support the diversion of non-violent offenders from prison to more effective and less expensive community-based
                   supervision and services.</p>
                 <p>ARI sites use grant funds to design and implement local programs that address offenders' risks and needs
@@ -137,7 +137,7 @@
               <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
                 for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
               <p>For more information, contact
-                <a href="mailto: emma.rubin@illinois.gov" class="heavy">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
+                <a href="mailto: emma.rubin@illinois.gov" class="heavy primary">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
               <p>Agenda coming soon</p>
 
 
