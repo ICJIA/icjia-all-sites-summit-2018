@@ -10,6 +10,7 @@
             </h1>
             <h2 class="muted">All-Sites Summit</h2>
             <h3>May 9-10, 2018</h3>
+            <h4 style="color: #666">(with optional pre-summit workshops on May 8)</h4>
             <div class="address">
               <p>
                 <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree by Hilton, Bloomington, Illinois</a>
