@@ -1,10 +1,19 @@
-# bootstrap4
+# Adult Redeploy Illinois 2018 All Sites Summit
 
-> A Vue.js project
+The seventh annual ARI All-Sites Summit will focus on understanding, communicating, and expanding our impact.
+This year, ARI is partnering with the Criminal Justice Coordinating Councils (CJCC) to bring an even richer
+Summit experience to our sites and stakeholders, including an extra half-day of optional programming hosted
+by the CJCCs. CJCCs are partnerships of local criminal justice stakeholders, service providers, and community
+partners, often organized on the county level, that engage in collaborative criminal justice planning. We
+expect that sharing space at the Summit will provide many opportunities for mutual learning.
+
+## Site
+
+https://ariallsites2018.icjia.cloud
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -17,5 +26,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
