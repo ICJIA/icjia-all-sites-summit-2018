@@ -173,7 +173,7 @@
                   Eastland and the DoubleTree.</li>
                 <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Pre-Summit
                   programming on May 8 is expected to begin at 12 pm.</li>
-                <li>Continental breakfast will be provided on May 8 and May 9, and lunch will be provided on May 9.</li>
+                <li>Continental breakfast will be provided on May 9 and May 10, and lunch will be provided on May 9.</li>
                 <li>The Summit will conclude at 12pm on Thursday, May 10.</li>
               </ul>
 
