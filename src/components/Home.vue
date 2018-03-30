@@ -196,7 +196,8 @@
                   ARI program contact before registering.</li>
                 <li>For existing ARI sites, mileage, lodging and per diem should be covered in local program budgets.
                 </li>
-                <li>Participants must make lodging reservations on their own or through their ARI-funded programs.
+                <li>ARI participants must make lodging reservations on their own or through their ARI-funded programs. CJCC participants
+                  should also make hotel arrangements on their own, unless told otherwise by Loyola University.
                   <br>
                   <br>The
                   <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree</a>

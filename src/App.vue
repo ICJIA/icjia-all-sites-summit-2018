@@ -11,7 +11,7 @@
 
       </div>
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">ARI 2018 All Sites Summit</span>
+        <span class="d-block d-lg-none" style="font-size: 19px">2018 Joint ARI and CJCC Summit</span>
 
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
