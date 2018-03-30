@@ -199,13 +199,13 @@
                 <li>Participants must make lodging reservations on their own or through their ARI-funded programs.
                   <br>
                   <br>The
-                  <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy">DoubleTree</a>
+                  <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree</a>
                   has set aside a block of rooms for the nights of Tuesday, May 8 and Wednesday, May 9. Reservations should be made by April
                   17, 2018 to ensure access to the state rate. Ask for the "Adult Redeploy Illinois" room block when making
                   reservations at 1-309-664-6446. An additional block of rooms at the state rate has been reserved at the
                   Eastland Suites Hotel, and can be reserved by calling 309-662-0000. There is a free shuttle between the
                   Eastland and the DoubleTree. Other hotels that offer the state rate
-                  <a href="">may be found here.</a>
+                  <a href="/static/Bloomington State Rate Hotels.pdf" class="heavy primary">may be found here.</a>
                 </li>
                 <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Pre-Summit
                   programming on May 8 is expected to begin at 12 pm.</li>
