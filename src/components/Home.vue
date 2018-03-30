@@ -6,7 +6,7 @@
         <div class="text-center">
           <div>
             <h1 class="mb-5">
-              <span class="primary">Data, Planning, & Impact</span>
+              <span class="primary">Data, Planning & Impact</span>
             </h1>
             <h2 class="muted">A Joint Adult Redeploy Illinois and Criminal Justice Coordinating Councils Summit</h2>
             <h3>May 8, 9, and 10, 2018</h3>
