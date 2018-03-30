@@ -49,6 +49,9 @@
               <img src="./assets/icjia.png" alt="ICJIA Logo" class="navFooterLogo" />
             </a>
             <div class="navFooterCopy">&copy;2018 Illinois Criminal Justice Information Authority</div>
+            <div class="navFooterCopy">
+              <a href="">GitHub</a>
+            </div>
           </li>
         </ul>
       </div>
@@ -140,6 +143,10 @@
     font-weight: 700;
     text-transform: uppercase;
     color: #343a40
+  }
+
+  h2.front-page {
+    text-transform: none;
   }
 
   h1 {

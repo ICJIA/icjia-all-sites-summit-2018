@@ -8,8 +8,8 @@
             <h1 class="mb-5">
               <span class="primary">Data, Planning & Impact</span>
             </h1>
-            <h2 class="muted">A Joint Adult Redeploy Illinois and Criminal Justice Coordinating Councils Summit</h2>
-            <h3>May 8, 9, and 10, 2018</h3>
+            <h2 class="muted front-page">A Joint Adult Redeploy Illinois & Criminal Justice Coordinating Councils Summit</h2>
+            <h3>May 8, 9 & 10, 2018</h3>
 
             <div class="address">
               <p>
@@ -38,12 +38,13 @@
               <p>Please join us for Data, Planning, and Impact: A Joint Adult Redeploy Illinois and Criminal Justice Coordinating
                 Councils Summit, in Bloomington May 8-10, 2018.
               </p>
-              <p>Hosted by the Illinois Criminal Justice Information Authority, Adult Redeploy Illinois, Loyola University’s
-                Center for Criminal Justice Research, Policy, and Practice, and the Illinois Center of Excellence for Behavioral
-                Health and Justice, this summit will bring together a broad range of stakeholders from counties and judicial
-                circuits operating or interested in developing CJCCs and ARI-funded local prison diversion programs. Serving
-                as both the seventh annual ARI all-sites summit and the second convening of CJCCs from around the state,
-                the event will provide rich opportunities for mutual learning.</p>
+              <p>Hosted by the Illinois Criminal Justice Information Authority, Adult Redeploy Illinois,
+                <a href="https://www.luc.edu/ccj/" class="heavy">Loyola University’s Center for Criminal Justice Research, Policy, and Practice</a>, and the Illinois Center
+                of Excellence for Behavioral Health and Justice, the Summit will bring together a broad range of stakeholders
+                from counties and judicial circuits either operating or interested in developing CJCCs and ARI-funded local
+                prison diversion programs. Serving as both the seventh annual ARI All-Sites Summit and the second convening
+                of CJCCs from around the state, the event will provide rich opportunities for mutual learning and foster
+                coordinated decision-making.</p>
               <p>All three days will provide information and training that benefit members of CJCCs and ARI teams; however,
                 if you cannot attend all three days, please attend the days that are geared toward your program affiliation.
                 Day 1 (Tuesday, May 8 in the afternoon) will focus on CJCC technical assistance, Day 2 (Wednesday, May 9
@@ -166,7 +167,7 @@
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
               <p>The 2018 ARI-CJCC Summit will focus on the practical advantages and challenges associated with coordinating
-                across the criminal justice system to address/solve significant problems. The Summit will include skills-building
+                across the criminal justice system to address significant problems. The Summit will include skills-building
                 sessions on strategic planning and implementing data-driven programs, offer grants technical assistance,
                 and facilitate discussions among sites focused on expanding impact.</p>
               <p>For more information, contact
@@ -197,21 +198,24 @@
                 <li>For existing ARI sites, mileage, lodging and per diem should be covered in local program budgets.
                 </li>
                 <li>ARI participants must make lodging reservations on their own or through their ARI-funded programs. CJCC participants
-                  should also make hotel arrangements on their own, unless told otherwise by Loyola University.
+                  should also make hotel arrangements on their own, unless told otherwise by
+                  <a href="https://www.luc.edu/ccj/">Loyola University</a>.
                   <br>
                   <br>The
                   <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree</a>
                   has set aside a block of rooms for the nights of Tuesday, May 8 and Wednesday, May 9. Reservations should be made by April
                   17, 2018 to ensure access to the state rate. Ask for the "Adult Redeploy Illinois" room block when making
-                  reservations at 1-309-664-6446. An additional block of rooms at the state rate has been reserved at the
-                  Eastland Suites Hotel, and can be reserved by calling 309-662-0000. There is a free shuttle between the
-                  Eastland and the DoubleTree. Other hotels that offer the state rate
+                  reservations at 1-309-664-6446, or use this link:
+                  <a href="http://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ARD-20180508/index.jhtml" class="heavy primary">http://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ARD-20180508/index.jhtml</a>. An additional
+                  block of rooms at the state rate has been reserved at the Eastland Suites Hotel, and can be reserved by
+                  calling 309-662-0000. There is a free shuttle between the Eastland and the DoubleTree. Other hotels that
+                  offer the state rate
                   <a href="/static/Bloomington State Rate Hotels.pdf" class="heavy primary">may be found here.</a>
                 </li>
-                <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Pre-Summit
-                  programming on May 8 is expected to begin at 12 pm.</li>
+                <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Summit programming
+                  on May 8 is expected to begin at 12 pm.</li>
                 <li>Continental breakfast will be provided on May 9 and May 10, and lunch will be provided on May 9.</li>
-                <li>The Summit will conclude at 12pm on Thursday, May 10.</li>
+                <li>The Summit will conclude by 1pm on Thursday, May 10.</li>
               </ul>
 
 
