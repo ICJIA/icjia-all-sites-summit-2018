@@ -17,7 +17,7 @@
               </p>
               <p> 10 Brickyard Drive</p>
               <p>Bloomington, IL 61701</p>
-              <button type="button" class="btn btn-outline-secondary mt-4 btn-registration" disabled>Registration open from 4/1/2018 through 4/27/2018</button>
+              <button type="button" class="btn btn-outline-secondary mt-4 btn-registration" disabled>Registration open from 4/2/2018 through 4/27/2018</button>
             </div>
 
             <div class="readmore" @click="scrollTo('#about-summit')">
@@ -111,10 +111,10 @@
                 effective administration of justice. Typically the partnerships are organized at the county level and include
                 representatives from:</p>
               <ul>
-                <li>The 3 branches of government (executive, judicial, and legislative);</li>
-                <li>Multiple levels of government (city, county, and state agencies);</li>
-                <li>and " Allied stakeholders from various other governmental entities, such as education or health and human
-                  services, community based organizations, service providers, and citizens.</li>
+                <li>The 3 branches of government (executive, judicial, and legislative)</li>
+                <li>Multiple levels of government (city, county, and state agencies)</li>
+                <li>Allied stakeholders from various other governmental entities, such as education or health and human services,
+                  community based organizations, service providers, and citizens</li>
               </ul>
               <p>
                 CJCCs follow a structured, data-driven planning process to identify, analyze, solve, and manage justice system issues. This

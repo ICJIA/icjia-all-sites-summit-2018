@@ -179,7 +179,7 @@
       left: 0;
       display: flex;
       flex-direction: column;
-      width: 19rem;
+      width: 17rem;
       height: 100vh;
       overflow: auto;
 
