@@ -3,10 +3,11 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <div class="navHeader d-none d-lg-block" @click="scrollTo('#page-top')">
 
-        <h1>Adult
-          <br>Redeploy
-          <br>Illinois</h1>
-        <h2>2018 All Sites Summit</h2>
+        <h1>Data
+          <br>Planning
+          <br> &
+          <br>Impact</h1>
+        <h2>Joint ARI and CJCC Summit</h2>
 
       </div>
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -30,6 +31,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" id="about-cjcc-nav" v-scroll-to="'#about-cjcc'">About Criminal Justice Coordinating Councils</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" id="about-coe-nav" v-scroll-to="'#about-coe'">About the Illinois Center of Excellence</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" id="agenda-nav" v-scroll-to="'#agenda'">Agenda</a>
@@ -175,7 +179,7 @@
       left: 0;
       display: flex;
       flex-direction: column;
-      width: 17rem;
+      width: 19rem;
       height: 100vh;
       overflow: auto;
 
@@ -310,15 +314,21 @@
 
   #about-summit,
   #about-cjcc,
-  #registration {
+
+  #agenda {
     background: #35999B;
     color: white;
   }
 
   #about-summit h2,
   #about-cjcc h2,
-  #registration h2 {
-    color: #fff;
+
+  #agenda h2 {
+    color: #fff !important;
+  }
+
+  #resources {
+    background: #eee;
   }
 
   ul.sectionList li {

@@ -5,12 +5,12 @@
       <section class="content-section first p-3 p-lg-5" id="home">
         <div class="text-center">
           <div>
-            <h1 class="mb-5">2018
-              <span class="primary">Adult Redeploy Illinois</span>
+            <h1 class="mb-5">
+              <span class="primary">Data, Planning, & Impact</span>
             </h1>
-            <h2 class="muted">All-Sites Summit</h2>
-            <h3>May 9-10, 2018</h3>
-            <h4 style="color: #666">(with optional pre-summit workshops on May 8)</h4>
+            <h2 class="muted">A Joint Adult Redeploy Illinois and Criminal Justice Coordinating Councils Summit</h2>
+            <h3>May 8, 9, and 10, 2018</h3>
+
             <div class="address">
               <p>
                 <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy primary">DoubleTree by Hilton, Bloomington, Illinois</a>
@@ -35,18 +35,21 @@
 
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <p>The seventh annual ARI All-Sites Summit will focus on understanding, communicating, and expanding our impact.
-                This year, ARI is partnering with the Criminal Justice Coordinating Councils (CJCC) to bring an even richer
-                Summit experience to our sites and stakeholders, including an extra half-day of optional programming hosted
-                by the CJCCs. CJCCs are partnerships of local criminal justice stakeholders, service providers, and community
-                partners, often organized on the county level, that engage in collaborative criminal justice planning. We
-                expect that sharing space at the Summit will provide many opportunities for mutual learning.</p>
-              <p>The Summit will include a day and a half of panels, breakout sessions, technical training, and networking.
-                ARI sites are also invited and encouraged to attend the optional pre-summit workshops in conjunction with
-                CJCCs from around the state, on the afternoon of May 8th. The CJCC-focused sessions will include presentations
-                on how to develop and implement strategic plans, as well as highlight projects undertaken by current CJCC
-                partners (In McLean, McHenry, Lake, Winnebago, and St. Clair Counties) to improve their local criminal justice
-                systems.
+              <p>Please join us for Data, Planning, and Impact: A Joint Adult Redeploy Illinois and Criminal Justice Coordinating
+                Councils Summit, in Bloomington May 8-10, 2018.
+              </p>
+              <p>Hosted by the Illinois Criminal Justice Information Authority, Adult Redeploy Illinois, Loyola University’s
+                Center for Criminal Justice Research, Policy, and Practice, and the Illinois Center of Excellence for Behavioral
+                Health and Justice, this summit will bring together a broad range of stakeholders from counties and judicial
+                circuits operating or interested in developing CJCCs and ARI-funded local prison diversion programs. Serving
+                as both the seventh annual ARI all-sites summit and the second convening of CJCCs from around the state,
+                the event will provide rich opportunities for mutual learning.</p>
+              <p>All three days will provide information and training that benefit members of CJCCs and ARI teams; however,
+                if you cannot attend all three days, please attend the days that are geared toward your program affiliation.
+                Day 1 (Tuesday, May 8 in the afternoon) will focus on CJCC technical assistance, Day 2 (Wednesday, May 9
+                all day) will be combined CJCC and ARI programming, and Day 3 (Thursday, May 10 in the morning) will focus
+                on ARI technical assistance. There will be networking events on Tuesday and Wednesday evenings.
+
               </p>
               <p> Those expected to attend are a spectrum of ARI and CJCC site stakeholders including but not limited to judges,
                 prosecutors, defense attorneys, treatment providers, probation staff and supervisors, law enforcement, program
@@ -130,15 +133,44 @@
         </div>
       </section>
 
+      <section class="content-section p-3 p-lg-5 d-flex flex-column" id="about-coe">
+        <div class="my-auto">
+          <h2 class="mb-5 primary">About The Illinois Center of Excellence for Behavioral Health and Justice</h2>
+          <div class="d-flex flex-column flex-md-row mb-5">
+            <div class="mr-auto">
+              <p>Since its opening in 2012, the Center of Excellence has worked throughout Illinois to reduce the overrepresentation
+                of persons with behavioral health disorders in the criminal justice system. The expertise of the Center of
+                Excellence staff in the law and behavioral health fields has allowed it to deliver invaluable training and
+                technical assistance to diverse stakeholders, including but not limited to problem-solving courts, law enforcement
+                personnel, and treatment providers in all 102 counties. The Center of Excellence has also developed important
+                working relationships both in Illinois and nationally that facilitate its ability to fulfill its mission
+                to equip communities to appropriately respond to the needs of persons with behavioral health disorders who
+                are involved with the criminal justice system.</p>
+
+
+
+
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+
+
+
+
       <section class="content-section p-3 p-lg-5 d-flex flex-column" id="agenda">
         <div class="my-auto">
           <h2 class="mb-5 primary">Agenda</h2>
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <p>The 2018 ARI All-Sites Summit will offer opportunities to share site updates and lessons learned, skills-building
-                for communicating and expanding your ARI programs' impact, grants technical assistance, and more.</p>
+              <p>The 2018 ARI-CJCC Summit will focus on the practical advantages and challenges associated with coordinating
+                across the criminal justice system to address/solve significant problems. The Summit will include skills-building
+                sessions on strategic planning and implementing data-driven programs, offer grants technical assistance,
+                and facilitate discussions among sites focused on expanding impact.</p>
               <p>For more information, contact
-                <a href="mailto: emma.rubin@illinois.gov" class="heavy primary">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
+                <a href="mailto: emma.rubin@illinois.gov" class="heavy">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
               <p>Agenda coming soon</p>
 
 
@@ -162,15 +194,19 @@
                 <li>There are no registration costs for the event; however, all participants must register for the Summit. For
                   those participants representing ARI programs, it is suggested that you confirm participation with your
                   ARI program contact before registering.</li>
-                <li>Mileage, lodging and per diem should be covered in local program budgets.
+                <li>For existing ARI sites, mileage, lodging and per diem should be covered in local program budgets.
                 </li>
-                <li>Participants must make lodging reservations on their own or through their ARI-funded programs. The
+                <li>Participants must make lodging reservations on their own or through their ARI-funded programs.
+                  <br>
+                  <br>The
                   <a href="http://doubletree3.hilton.com/en/hotels/illinois/doubletree-by-hilton-hotel-bloomington-BMIDTDT/index.html" class="heavy">DoubleTree</a>
                   has set aside a block of rooms for the nights of Tuesday, May 8 and Wednesday, May 9. Reservations should be made by April
                   17, 2018 to ensure access to the state rate. Ask for the "Adult Redeploy Illinois" room block when making
                   reservations at 1-309-664-6446. An additional block of rooms at the state rate has been reserved at the
                   Eastland Suites Hotel, and can be reserved by calling 309-662-0000. There is a free shuttle between the
-                  Eastland and the DoubleTree.</li>
+                  Eastland and the DoubleTree. Other hotels that offer the state rate
+                  <a href="">may be found here.</a>
+                </li>
                 <li>Expected start time is 8:30 am on both days, with coffee and registration beginning at 7:30am. Pre-Summit
                   programming on May 8 is expected to begin at 12 pm.</li>
                 <li>Continental breakfast will be provided on May 9 and May 10, and lunch will be provided on May 9.</li>
