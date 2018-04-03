@@ -38,13 +38,15 @@
               <p>Please join us for Data, Planning, and Impact: A Joint Adult Redeploy Illinois and Criminal Justice Coordinating
                 Councils Summit, in Bloomington May 8-10, 2018.
               </p>
-              <p>Hosted by the Illinois Criminal Justice Information Authority, Adult Redeploy Illinois,
-                <a href="https://www.luc.edu/ccj/" class="heavy">Loyola University’s Center for Criminal Justice Research, Policy, and Practice</a>, and the Illinois Center
-                of Excellence for Behavioral Health and Justice, the Summit will bring together a broad range of stakeholders
-                from counties and judicial circuits either operating or interested in developing CJCCs and ARI-funded local
-                prison diversion programs. Serving as both the seventh annual ARI All-Sites Summit and the second convening
-                of CJCCs from around the state, the event will provide rich opportunities for mutual learning and foster
-                coordinated decision-making.</p>
+              <p>Hosted by the
+                <a href="http://www.icjia.state.il.us/" class="heavy">Illinois Criminal Justice Information Authority</a>,
+                <a href="http://www.icjia.state.il.us/redeploy" class="heavy"></a>Adult Redeploy Illinois</a>,
+                <a href="https://www.luc.edu/ccj/" class="heavy">Loyola University’s Center for Criminal Justice Research, Policy, and Practice</a>, and the
+                <a href="http://www.ilcoe.us/" class="heavy">Illinois Center of Excellence for Behavioral Health and Justice</a>, the Summit will bring together a broad
+                range of stakeholders from counties and judicial circuits either operating or interested in developing CJCCs
+                and ARI-funded local prison diversion programs. Serving as both the seventh annual ARI All-Sites Summit and
+                the second convening of CJCCs from around the state, the event will provide rich opportunities for mutual
+                learning and foster coordinated decision-making.</p>
               <p>All three days will provide information and training that benefit members of CJCCs and ARI teams; however,
                 if you cannot attend all three days, please attend the days that are geared toward your program affiliation.
                 Day 1 (Tuesday, May 8 in the afternoon) will focus on CJCC technical assistance, Day 2 (Wednesday, May 9
@@ -139,14 +141,15 @@
           <h2 class="mb-5 primary">About The Illinois Center of Excellence for Behavioral Health and Justice</h2>
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <p>Since its opening in 2012, the Center of Excellence has worked throughout Illinois to reduce the overrepresentation
-                of persons with behavioral health disorders in the criminal justice system. The expertise of the Center of
-                Excellence staff in the law and behavioral health fields has allowed it to deliver invaluable training and
-                technical assistance to diverse stakeholders, including but not limited to problem-solving courts, law enforcement
-                personnel, and treatment providers in all 102 counties. The Center of Excellence has also developed important
-                working relationships both in Illinois and nationally that facilitate its ability to fulfill its mission
-                to equip communities to appropriately respond to the needs of persons with behavioral health disorders who
-                are involved with the criminal justice system.</p>
+              <p>Since its opening in 2012, the
+                <a href="http://www.ilcoe.us/" class="heavy primary">Center of Excellence</a> has worked throughout Illinois to reduce the overrepresentation of persons with
+                behavioral health disorders in the criminal justice system. The expertise of the Center of Excellence staff
+                in the law and behavioral health fields has allowed it to deliver invaluable training and technical assistance
+                to diverse stakeholders, including but not limited to problem-solving courts, law enforcement personnel,
+                and treatment providers in all 102 counties. The Center of Excellence has also developed important working
+                relationships both in Illinois and nationally that facilitate its ability to fulfill its mission to equip
+                communities to appropriately respond to the needs of persons with behavioral health disorders who are involved
+                with the criminal justice system.</p>
 
 
 

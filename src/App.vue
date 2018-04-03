@@ -50,7 +50,7 @@
             </a>
             <div class="navFooterCopy">&copy;2018 Illinois Criminal Justice Information Authority</div>
             <div class="navFooterCopy">
-              <a href="">GitHub</a>
+              <a href="https://github.com/ICJIA/icjia-all-sites-summit-2018">GitHub</a>
             </div>
           </li>
         </ul>
@@ -275,9 +275,15 @@
     }
 
     .navFooterCopy {
-      font-size: 9px;
-      color: #eee;
+      font-size: 12px;
+      color: #fff !important;
       padding-bottom: 15px !important;
+    }
+
+    .navFooterCopy a {
+
+      color: #ccc !important;
+
     }
   }
 
