@@ -17,7 +17,11 @@
               </p>
               <p> 10 Brickyard Drive</p>
               <p>Bloomington, IL 61701</p>
-              <button type="button" class="btn btn-outline-secondary mt-4 btn-registration" disabled>Registration open from 4/2/2018 through 4/27/2018</button>
+              <div>
+                <a class="btn btn-outline-secondary mt-4 btn-registration" href="https://www.eventbrite.com/e/data-planning-and-impact-a-joint-ari-and-cjcc-summit-registration-44408180062">Register Now!</a>
+              </div>
+              <div style="margin-top: 20px; font-size: 12px; color: #068587; font-weight: bold;">Registration open until April 27th</div>
+
             </div>
 
             <div class="readmore" @click="scrollTo('#about-summit')">

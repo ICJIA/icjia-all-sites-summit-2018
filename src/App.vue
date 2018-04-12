@@ -363,6 +363,12 @@
     color: #333 !important;
   }
 
+  .btn-registration:hover {
+    color: #fff!important;
+    background: #068587!important;
+  }
+
+
   .readmore {
     margin-top: 80px;
   }
