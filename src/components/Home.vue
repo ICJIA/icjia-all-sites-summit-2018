@@ -20,7 +20,13 @@
               <div>
                 <a class="btn btn-outline-secondary mt-4 btn-registration" href="https://www.eventbrite.com/e/data-planning-and-impact-a-joint-ari-and-cjcc-summit-registration-44408180062">Register Now!</a>
               </div>
-              <div style="margin-top: 20px; font-size: 12px; color: #068587; font-weight: bold;">Registration open until April 27th</div>
+              <div style="margin-top: 20px; font-size: 12px; color: #333; font-weight: bold;">Registration open until April 27th&nbsp;|&nbsp;
+                <a href="/static/2018 Summit Agenda.pdf" style="color: #068587;">Download Agenda&nbsp;
+                  <i class="far fa-file-pdf"></i>
+                </a>
+              </div>
+
+
 
             </div>
 
@@ -179,7 +185,13 @@
                 and facilitate discussions among sites focused on expanding impact.</p>
               <p>For more information, contact
                 <a href="mailto: emma.rubin@illinois.gov" class="heavy">emma.rubin@illinois.gov</a>, Policy and Program Coordinator, Adult Redeploy Illinois.</p>
-              <p>Agenda coming soon</p>
+
+
+              <div class="text-center mt-5">
+                <a class="btn btn-info mt-4 btn-registration" href="/static/2018 Summit Agenda.pdf">Download Agenda&nbsp;
+                  <i class="far fa-file-pdf"></i>
+                </a>
+              </div>
 
 
 
