@@ -253,8 +253,147 @@
           <h2 class="mb-5 primary">Summit Resources</h2>
           <div class="d-flex flex-column flex-md-row mb-5">
             <div class="mr-auto">
-              <h3>
-                Power Points and Resources coming soon</h3>
+              <div class="card presentation first">
+                <h4 class="first" id="what-comes-next-discussion-on-cjcc-site-projects-and-priorities-after-trends-and-issues-report">What Comes Next? Discussion on CJCC Site Projects and Priorities after Trends and Issues Report</h4>
+                <ul>
+                  <li>
+                    <p>John Maki, JD, MA, Executive Director, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                  <li>
+                    <p>Bryant Jackson-Green, MPPAc, Strategic Policy Advisor, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                  <li>
+                    <p>Marcus Hardy, BS, Executive Assistant to the Director, Illinois Department of Corrections</p>
+                  </li>
+                  <li>
+                    <p>Hon. George W. Timberlake (Ret.), JD, MBA, Chair of the Illinois Juvenile Justice Commission</p>
+                  </li>
+                </ul>
+              </div>
+              <div class="card presentation">
+                <h4 id="creating-and-implementing-strategic-plans">Creating and Implementing Strategic Plans</h4>
+                <ul>
+                  <li>
+                    <p>John Maki, JD, MA, Executive Director, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                  <li>
+                    <p>Bryant Jackson-Green, MPPAc, Strategic Policy Advisor, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                </ul>
+              </div>
+              <div class="card presentation">
+                <h4 id="theres-no-low-hanging-fruitwhich-is-why-coordination-is-essential">There’s No Low-Hanging Fruit—Which is Why Coordination is Essential</h4>
+                <ul>
+                  <li>Denise O’Donnell, JD, MSW, Distinguished Senior Fellow, Litmus, New York University Marron Institute of
+                    Urban Management
+                  </li>
+                </ul>
+              </div>
+              <div class="card presentation">
+                <h4 id="case-studies-taking-a-coordinated-approach-to-major-criminal-justice-challenges">Case Studies: Taking a Coordinated Approach to Major Criminal Justice Challenges</h4>
+                <p>Lake County Opioid Initiative</p>
+                <ul>
+                  <li>
+                    <p>Chief Eric Guenther, MA, Chief of Police, Mundelein County</p>
+                  </li>
+                  <li>
+                    <p>Karen Wolownik Albert, MSW, LCSW, Executive Director, Gateway Foundation’s Lake County Treatment Services</p>
+                  </li>
+                  <li>
+                    <p>Steve Fabbri, MA, Assistant Director, 19th Judicial Circuit Court, Lake County Adult Probation Services</p>
+                  </li>
+                </ul>
+
+                <p>
+                  Download:
+                  <a href="/static/Case_Studies_Lake_County.pdf" class="presentation">Case_Studies_Lake_County.pdf</a>
+                </p>
+              </div>
+              <div class="card presentation">
+                <h4 id="examining-the-challenges-and-opportunities-emerging-adults-present-to-criminal-justice-systems">Examining the Challenges and Opportunities Emerging Adults Present to Criminal Justice Systems</h4>
+                <p>• Lisa Jacobs, JD, Program Manager, Loyola University Center for Criminal Justice Research, Policy, and Practice</p>
+                <p>• David Olson, PhD, Professor, Loyola University Department of Criminal Justice and Criminology; Co-director,
+                  Center for Criminal Justice Research, Policy and Practice</p>
+                <p>Download:
+                  <a href="/static/Examing_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf" class="presentation">Examing_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf</a>
+                </p>
+                <p>Download:
+                  <a href="/static/Examing_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf" class="presentation">Examing_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf</a>
+                </p>
+              </div>
+              <div class="card presentation">
+                <h4 id="addressing-opioid-use-disorder-medication-assisted-treatment">Addressing Opioid Use Disorder: Medication-Assisted Treatment</h4>
+                <ul>
+                  <li>Lily Gleicher, MS, PhDc, Research Analyst, ICJIA Center for Justice Research and Evaluation</li>
+                </ul>
+                <p>Download:
+                  <a href="/static/Addressing_Opioid_Use_Disorder.pdf" class="presentation">Addressing_Opioid_Use_Disorder.pdf</a>
+                </p>
+              </div>
+              <div class="card presentation">
+                <h4 id="procedural-justice-in-the-criminal-justice-system">Procedural Justice in the Criminal Justice System</h4>
+                <ul>
+                  <li>Rachel Johnston, PhD, Associate Research Scholar in Law; Research Director for the Justice Collaboratory,
+                    Yale Law School</li>
+                </ul>
+              </div>
+              <div class="card presentation">
+                <h4 id="how-being-trauma-informed-improves-the-health-and-safety-of-your-criminal-justice-system">How Being Trauma-Informed Improves the Health and Safety of Your Criminal Justice System</h4>
+                <ul>
+                  <li>Mary Gubbe Lee, MS, LSW, LCPC, Training Consultant, Illinois Center of Excellence in Behavioral Health
+                    and Justice
+                  </li>
+                </ul>
+                <p>Download:
+                  <a href="/static/How_Being_Trauma_Informed_Improves_Health_and_Safety.pdf" class="presentation">How_Being_Trauma_Informed_Improves_Health_and_Safety.pdf</a>
+                </p>
+              </div>
+              <div class="card presentation">
+                <h4 id="show-me-the-money-how-your-jurisdiction-can-find-sustainable-support-for-criminal-justice-projects">Show Me the Money: How your Jurisdiction Can Find Sustainable Support for Criminal Justice Projects</h4>
+                <ul>
+                  <li>
+                    <p>Soledad McGrath, JD, Senior Program Officer, Joyce Foundation</p>
+                  </li>
+                  <li>
+                    <p>Marlana Dokken, BA, Regional Grants Program Manager, Region 1 Planning Council</p>
+                  </li>
+                  <li>
+                    <p>Moderated by John Maki, JD, MA, Executive Director, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                </ul>
+              </div>
+              <div class="card presentation">
+                <h4 id="criminal-justice-coordinating-councils-101">Criminal Justice Coordinating Councils 101</h4>
+                <ul>
+                  <li>
+                    <p>Bryant Jackson-Green, MPPAc, Strategic Policy Advisor, Illinois Criminal Justice Information Authority</p>
+                  </li>
+                  <li>
+                    <p>David Olson, PhD, Professor, Loyola University Department of Criminal Justice and Criminology; Co-director,
+                      Center for Criminal Justice Research, Policy and Practice</p>
+                  </li>
+                </ul>
+                <p>Download:
+                  <a href="/static/Criminal_Justice_Coordinating_Councils_101.pdf" class="presentation">Criminal_Justice_Coordinating_Councils_101.pdf</a>
+                </p>
+              </div>
+              <div class="card presentation">
+                <h4 id="making-the-most-of-ari-target-populations-eligibility">Making the Most of ARI: Target Populations &amp; Eligibility</h4>
+                <ul>
+                  <li>
+                    <p>Lindsey LaPointe, MSW, Senior Project Manager, Justice Reform, BPI</p>
+                  </li>
+                  <li>
+                    <p>Judge Janet Holmgren, JD, 17th Judicial Circuit Court</p>
+                  </li>
+                  <li>
+                    <p>Liz Barnhart, BA, Court Consultant to McLean County</p>
+                  </li>
+                </ul>
+                <p>Download:
+                  <a href="/static/Making_the_Most_of_ARI.pdf" class="presentation">Making_the_Most_of_ARI.pdf</a>
+                </p>
+              </div>
 
 
 
@@ -294,4 +433,24 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
+  #resources h4 {
+
+    margin-bottom: 15px;
+  }
+
+  .card.presentation {
+    padding: 25px;
+    margin-top: 40px;
+  }
+
+  .card.presentation.first {
+
+    margin-top: 0px;
+  }
+
+  a.presentation {
+    font-weight: bold;
+    color: #068587 !important;
+
+  }
 </style>
