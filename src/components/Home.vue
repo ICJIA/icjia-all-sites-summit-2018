@@ -251,7 +251,13 @@
       <section class="content-section p-3 p-lg-5 d-flex flex-column" id="resources">
         <div class="my-auto">
           <h2 class="mb-5 primary">Summit Resources</h2>
+          <div class="text-center mt-3">
+            <a class="btn btn-light mb-5" href="/static/2018 Summit Agenda.pdf">Download Agenda&nbsp;
+              <i class="far fa-file-pdf"></i>
+            </a>
+          </div>
           <div class="d-flex flex-column flex-md-row mb-5">
+
             <div class="mr-auto">
               <div class="card presentation first">
                 <h4 class="first" id="what-comes-next-discussion-on-cjcc-site-projects-and-priorities-after-trends-and-issues-report">What Comes Next? Discussion on CJCC Site Projects and Priorities after Trends and Issues Report</h4>
