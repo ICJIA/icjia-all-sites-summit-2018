@@ -379,6 +379,9 @@
                     <p>Moderated by John Maki, JD, MA, Executive Director, Illinois Criminal Justice Information Authority</p>
                   </li>
                 </ul>
+                <p>Download:
+                  <a href="/static/Show_Me_the_Money.pdf" class="presentation">Show_Me_the_Money.pdf</a>
+                </p>
               </div>
               <div class="card presentation">
                 <h4 id="criminal-justice-coordinating-councils-101">Criminal Justice Coordinating Councils 101</h4>
