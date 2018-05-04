@@ -329,10 +329,10 @@
                 <p>• David Olson, PhD, Professor, Loyola University Department of Criminal Justice and Criminology; Co-director,
                   Center for Criminal Justice Research, Policy and Practice</p>
                 <p>Download:
-                  <a href="/static/Examing_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf" class="presentation">Examing_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf</a>
+                  <a href="/static/Examining_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf" class="presentation">Examining_Challenges_and_Opportunities_Emerging_Adults_Jacobs.pdf</a>
                 </p>
                 <p>Download:
-                  <a href="/static/Examing_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf" class="presentation">Examing_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf</a>
+                  <a href="/static/Examining_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf" class="presentation">Examining_Challenges_and_Opportunities_Emerging_Adults_Olson.pdf</a>
                 </p>
               </div>
               <div class="card presentation">
