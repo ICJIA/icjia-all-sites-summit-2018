@@ -290,6 +290,10 @@
                     <p>Bryant Jackson-Green, MPPAc, Strategic Policy Advisor, Illinois Criminal Justice Information Authority</p>
                   </li>
                 </ul>
+                <p>
+                  Download:
+                  <a href="/static/Creating_and_Implementing_Strategic_Plans.pdf" class="presentation">Creating_and_Implementing_Strategic_Plans.pdf</a>
+                </p>
               </div>
               <div class="card presentation">
                 <h4 id="theres-no-low-hanging-fruitwhich-is-why-coordination-is-essential">There’s No Low-Hanging Fruit—Which is Why Coordination is Essential</h4>
