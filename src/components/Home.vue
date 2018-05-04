@@ -302,6 +302,10 @@
                     Urban Management
                   </li>
                 </ul>
+                <p>
+                  Download:
+                  <a href="/static/No_Low_Hanging_Fruit.pdf" class="presentation">No_Low_Hanging_Fruit.pdf</a>
+                </p>
               </div>
               <div class="card presentation">
                 <h4 id="case-studies-taking-a-coordinated-approach-to-major-criminal-justice-challenges">Case Studies: Taking a Coordinated Approach to Major Criminal Justice Challenges</h4>
