@@ -275,6 +275,10 @@
                     <p>Hon. George W. Timberlake (Ret.), JD, MBA, Chair of the Illinois Juvenile Justice Commission</p>
                   </li>
                 </ul>
+                <p>
+                  Download:
+                  <a href="/static/What_Comes_Next.pdf" class="presentation">What_Comes_Next.pdf</a>
+                </p>
               </div>
               <div class="card presentation">
                 <h4 id="creating-and-implementing-strategic-plans">Creating and Implementing Strategic Plans</h4>
