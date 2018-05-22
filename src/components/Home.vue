@@ -17,14 +17,14 @@
               </p>
               <p> 10 Brickyard Drive</p>
               <p>Bloomington, IL 61701</p>
-              <div>
+              <!-- <div>
                 <a class="btn btn-outline-secondary mt-4 btn-registration" href="https://www.eventbrite.com/e/data-planning-and-impact-a-joint-ari-and-cjcc-summit-registration-44408180062">Register Now!</a>
               </div>
               <div style="margin-top: 20px; font-size: 12px; color: #333; font-weight: bold;">Registration open until April 27th&nbsp;|&nbsp;
                 <a href="/static/2018 Summit Agenda.pdf" style="color: #068587;">Download Agenda&nbsp;
                   <i class="far fa-file-pdf"></i>
                 </a>
-              </div>
+              </div> -->
 
 
 
@@ -354,6 +354,9 @@
                   <li>Rachel Johnston, PhD, Associate Research Scholar in Law; Research Director for the Justice Collaboratory,
                     Yale Law School</li>
                 </ul>
+                <p>Download:
+                  <a href="/static/Procedural_Justice_in_the_Criminal_Justice_System.pdf" class="presentation">Procedural_Justice_in_the_Criminal_Justice_System.pdf</a>
+                </p>
               </div>
               <div class="card presentation">
                 <h4 id="how-being-trauma-informed-improves-the-health-and-safety-of-your-criminal-justice-system">How Being Trauma-Informed Improves the Health and Safety of Your Criminal Justice System</h4>
